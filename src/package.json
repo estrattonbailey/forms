@@ -1,0 +1,22 @@
+{
+  "name": "forms",
+  "version": "0.0.1",
+  "description": "Form validation using native getters and setters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/estrattonbailey/forms.git"
+  },
+  "author": "estrattonbailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estrattonbailey/forms/issues"
+  },
+  "homepage": "https://github.com/estrattonbailey/forms#readme",
+  "dependencies": {
+    "lookoutjs": "0.0.6"
+  }
+}
